@@ -1,0 +1,336 @@
+{
+  "03aa1abb-367b-458b-af89-7e811909005e": [
+    {
+      "role": "user",
+      "content": "Summarize"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm the Document Agent but encountered an error: object RunResponse can't be used in 'await' expression. Please try again."
+    },
+    {
+      "role": "user",
+      "content": "Summariz this"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm the Document Agent but encountered an error: object RunResponse can't be used in 'await' expression. Please try again."
+    }
+  ],
+  "bb013e3c-af5c-4136-95d9-c54f7ee8c878": [
+    {
+      "role": "user",
+      "content": "Summarize this"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm the Document Agent but encountered an error: object RunResponse can't be used in 'await' expression. Please try again."
+    }
+  ],
+  "b89cc81e-4adc-48a3-8aee-ead3e6412e83": [
+    {
+      "role": "user",
+      "content": "What is the CGPA in this?"
+    },
+    {
+      "role": "assistant",
+      "content": "\u274c Error reading file: Package not found at 'temp\\Akshath Resume.docx'"
+    },
+    {
+      "role": "user",
+      "content": "What is the cpi in this?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm the Document Agent but encountered an error: Could not import faiss python package. Please install it with `pip install faiss-gpu` (for CUDA supported GPU) or `pip install faiss-cpu` (depending on Python version).. Please try again."
+    }
+  ],
+  "e4b0defb-536f-4ec8-9b91-34bcbe4f5e96": [
+    {
+      "role": "user",
+      "content": "What is the cpi in this?"
+    },
+    {
+      "role": "assistant",
+      "content": "\u274c Error reading file: Package not found at 'temp\\Akshath Resume.docx'"
+    },
+    {
+      "role": "user",
+      "content": "what is the cpi in this?"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2705 Document indexed successfully. You can now ask questions."
+    },
+    {
+      "role": "user",
+      "content": "what is the cpi in this?"
+    },
+    {
+      "role": "assistant",
+      "content": "The context does not contain information about a CPI (Consumer Price Index). It only contains information about a person named Vibhanshu Dixit."
+    },
+    {
+      "role": "user",
+      "content": "Which college is vibhanshu?"
+    },
+    {
+      "role": "assistant",
+      "content": "Manipal University Jaipur"
+    },
+    {
+      "role": "user",
+      "content": "what is his cpi?"
+    },
+    {
+      "role": "assistant",
+      "content": "His GPA is 8.72. The context does not mention CPI."
+    }
+  ],
+  "b81b1ab6-372f-4a1b-836e-675b0af87f50": [
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "\u274c Error reading file: Package not found at 'temp\\Akshath Resume.docx'"
+    }
+  ],
+  "11666134-0923-43da-ad6e-e2400601ec4e": [
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "\u2705 Document indexed successfully. You can now ask questions."
+    },
+    {
+      "role": "user",
+      "content": "What is the Project in this?"
+    },
+    {
+      "role": "assistant",
+      "content": "The context does not provide information about any projects."
+    },
+    {
+      "role": "user",
+      "content": "Tell me about vibhansh's certificates"
+    },
+    {
+      "role": "assistant",
+      "content": "The provided context does not contain information about Vibhansh's certificates."
+    },
+    {
+      "role": "user",
+      "content": "Tell me about vibhanshu's certificates"
+    },
+    {
+      "role": "assistant",
+      "content": "The provided context does not mention anything about Vibhanshu's certificates."
+    },
+    {
+      "role": "user",
+      "content": "summarize the resume"
+    },
+    {
+      "role": "assistant",
+      "content": "Vibhanshu Dixit from Jaipur, Rajasthan is a B.Tech CSE student at Manipal University Jaipur, specializing in AI & ML (Sep 2022 - Present). His GPA is 8.72. He has relevant coursework in AI, ML, Deep Learning, Big Data Analytics, Statistics, Data Structures and Algorithms, Natural Language Processing, and Computer Vision. His skills include Python, C, and C++ programming languages and experience with developer tools like VS Code, Jupyter Notebook, and Google Colab."
+    },
+    {
+      "role": "user",
+      "content": "What all tools does Vibhanshu use?"
+    },
+    {
+      "role": "assistant",
+      "content": "Vibhanshu uses VS Code, Jupyter Notebook, and Google Colab."
+    },
+    {
+      "role": "user",
+      "content": "Tell me about his internships"
+    },
+    {
+      "role": "assistant",
+      "content": "The provided text does not mention any internships."
+    },
+    {
+      "role": "user",
+      "content": "Summarize this"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2705 Document indexed successfully. You can now ask questions."
+    },
+    {
+      "role": "user",
+      "content": "Summarize this"
+    },
+    {
+      "role": "assistant",
+      "content": "Kalasi Charith is a Software Developer, Fullstack Developer, and Machine Learning Engineer who will graduate from Pandit Dwarka Prasad Mishra Indian Institute of Information Technology in 2027. He has skills in HTML, CSS, Javascript, PHP, MySQL, C/C++, Data Science, Data Structure, Database Administration, and OOPs. He is pursuing a B.Tech in Computer Science Engineering at Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design & Manufacturing (IIITDM), Jabalpur and has a CGPA of 8.1."
+    },
+    {
+      "role": "user",
+      "content": "Tell me about is projects"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, but the context does not provide information about Kalasi Charith's projects."
+    },
+    {
+      "role": "user",
+      "content": "Tell me about the osteoporosis project"
+    },
+    {
+      "role": "assistant",
+      "content": "This resume does not contain information about osteoporosis projects."
+    }
+  ],
+  "587e96c5-4ddf-4534-a7f6-3e7af3ed9582": [
+    {
+      "role": "user",
+      "content": "Summarize"
+    },
+    {
+      "role": "assistant",
+      "content": "**Introduction to HPCL Assistance**\nAs a General Assistant for HPCL (Hindustan Petroleum Corporation Limited), I can provide support with:\n\n* **General Company Information**: Overview of HPCL, its history, and services\n* **Operations**: Basic queries about HPCL's operations, including refining, marketing, and distribution\n* **Customer Service**: Assistance with customer-related inquiries, such as fuel stations, loyalty programs, and feedback\n* **Business Guidance**: General guidance on business-related topics, including partnerships, careers, and sustainability initiatives\n\nFeel free to ask, and I'll be happy to help with your HPCL-related queries."
+    },
+    {
+      "role": "user",
+      "content": "Summarize"
+    },
+    {
+      "role": "assistant",
+      "content": "\u274c Failed to read DOCX file: Package not found at 'temp\\Akshath Resume.docx'"
+    },
+    {
+      "role": "user",
+      "content": "Summarize"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2705 Document indexed successfully. You can now ask questions."
+    },
+    {
+      "role": "user",
+      "content": "Summarize"
+    },
+    {
+      "role": "assistant",
+      "content": "This is an original tax invoice/bill of supply/cash memo from Medineed (invoice no. C012322500000142, date 2025-04-10, order ID PO09925268020450) to patient K.Charith of Jabalpur. It includes Medineed's DL number, FSSAI license number, GST, CIN, and premise address."
+    },
+    {
+      "role": "user",
+      "content": "What is the cost in this>"
+    },
+    {
+      "role": "assistant",
+      "content": "I am sorry, I cannot answer the question because the cost is not mentioned in the context."
+    },
+    {
+      "role": "user",
+      "content": "It is mentioned"
+    },
+    {
+      "role": "assistant",
+      "content": "It is mentioned in the context that this is a Tax Invoice/Bill of Supply/Cash Memo."
+    },
+    {
+      "role": "user",
+      "content": "Total amount>?"
+    },
+    {
+      "role": "assistant",
+      "content": "The provided context does not contain the total amount."
+    }
+  ],
+  "4ae5652e-db0c-4006-8faf-1aad02f314db": [
+    {
+      "role": "user",
+      "content": "Generate relevant graphs"
+    },
+    {
+      "role": "assistant",
+      "content": "```python\n\u274c Error executing code:\n\nmodule 'plotly.express' has no attribute 'Figure'\n\n```python\nimport pandas as pd\nimport plotly.express as px\n\n# Sample DataFrame (replace with your actual df)\ndata = {\n    \"Category\": [\"A\", \"B\", \"C\", \"A\", \"B\", \"C\"],\n    \"Value\": [10, 15, 12, 18, 22, 16],\n    \"Date\": pd.to_datetime(\n        [\n            \"2024-01-15\",\n            \"2024-01-15\",\n            \"2024-01-15\",\n            \"2024-01-16\",\n            \"2024-01-16\",\n            \"2024-01-16\",\n        ]\n    ),\n}\ndf = pd.DataFrame(data)\n\n\n# Bar chart of Value by Category\nfig_bar = px.bar(df, x=\"Category\", y=\"Value\", title=\"Value by Category\")\nfig_bar.show()\n\n\n# Line chart of Value over Date, colored by Category\nfig_line = px.line(\n    df, x=\"Date\", y=\"Value\", color=\"Category\", title=\"Value Over Time by Category\"\n)\nfig_line.show()\n\n\n# Scatter plot of Value by Category, sized by Value\nfig_scatter = px.scatter(\n    df,\n    x=\"Category\",\n    y=\"Value\",\n    size=\"Value\",\n    color=\"Category\",\n    title=\"Value by Category (Size represents Value)\",\n)\nfig_scatter.show()\n\n```\n```"
+    }
+  ],
+  "a467e259-0946-494d-996b-970c899353eb": [
+    {
+      "role": "user",
+      "content": "Hu"
+    },
+    {
+      "role": "assistant",
+      "content": "**Hello**, it seems like your query got cut off. Could you please provide more details or rephrase your question so I can assist you better with information about **Hindustan Petroleum Corporation Limited (HPCL)** or its services?"
+    },
+    {
+      "role": "user",
+      "content": "WHat is the CPI?"
+    },
+    {
+      "role": "assistant",
+      "content": "The context does not contain the CPI. Therefore, I cannot answer the question."
+    },
+    {
+      "role": "user",
+      "content": "SUmmarize"
+    },
+    {
+      "role": "assistant",
+      "content": "This document is a tax invoice/bill of supply/cash memo from Medineed to K.Charith, dated 2025-04-10, with invoice number C012322500000142 and order ID PO09925268020450. It includes Medineed's address, DL number, FSSAI license number, GST, and CIN, as well as K.Charith's name and address."
+    },
+    {
+      "role": "user",
+      "content": "Ipl 2025 winner"
+    },
+    {
+      "role": "assistant",
+      "content": "Royal Challengers Bengaluru (RCB) won the IPL 2025, defeating Punjab Kings in the final. This was RCB's first IPL title. The final match took place at the Narendra Modi Stadium in Ahmedabad."
+    },
+    {
+      "role": "user",
+      "content": "ipl 2026 winner"
+    },
+    {
+      "role": "assistant",
+      "content": "Predicting the winner of the IPL 2026 is inherently speculative. Here's what the search results suggest:\n\n*   **No definitive answer exists.** As of now, the IPL 2026 winner is unknown.\n*   **Betting Odds:** Stake.com lists odds for potential winners, with Mumbai Indians, Royal Challengers Bengaluru, Punjab Kings and Gujrat Titans as top contenders according to them.\n*   **AI Prediction:** ChatGPT predicted Chennai Super Kings to win IPL 2026.\n\nIt's important to remember that these are just predictions and betting odds, and the actual winner could be any of the participating teams."
+    },
+    {
+      "role": "user",
+      "content": "summarize"
+    },
+    {
+      "role": "assistant",
+      "content": "This is an original tax invoice/bill of supply/cash memo (C012322500000142) from Medineed (dated 2025-04-10, Order ID PO09925268020450) to K.Charith of Jabalpur. It includes Medineed's DL Number, FSSAI License No, GST, CIN, and address."
+    },
+    {
+      "role": "user",
+      "content": "tell me the address"
+    },
+    {
+      "role": "assistant",
+      "content": "Shop No.3-4,Roopali Complex,Napier Town, \nJabalpur, Madhya Pradesh, 482001, India"
+    }
+  ],
+  "5d5b8892-ce0b-4395-b67c-a539ba4ddc6c": [
+    {
+      "role": "user",
+      "content": "HI"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! \ud83d\udc4b I'm your **General Assistant** for **HPCL**. I can help with general queries, company information, and various tasks. How can I assist you today?"
+    }
+  ],
+  "2f7c4f03-0859-4110-aac3-19e29e89c49d": [
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! \ud83d\udc4b I'm your **General Assistant** for **HPCL**. I can help with general queries, company information, and various tasks. How can I assist you today?"
+    }
+  ]
+}
